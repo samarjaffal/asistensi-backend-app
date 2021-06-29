@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/users/60d7e07cdc308162e05bd403
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZDdlZDY0YTdjNmEzMzY5YzI3ZDBlMyIsInVzZXJuYW1lIjoiQHVzZXIzIiwiaWF0IjoxNjI0NzcxNTk5LCJleHAiOjE2MjUzNzYzOTl9.wu78stofNpT76zKxITjegTPG8u7VIFY36Lt7iUY0178
+
+{
+    "name": "John",
+    "lastname": "Doe Doe",
+    "age": "25"
+}
